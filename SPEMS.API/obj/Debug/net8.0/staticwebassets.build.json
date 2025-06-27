@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vjWTN+ApJTvoMRSTxO/7+nrhOJzvzHtL53mNCrnZOvk=",
+  "Source": "SPEMS.API",
+  "BasePath": "_content/SPEMS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
